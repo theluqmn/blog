@@ -15,7 +15,7 @@ Strategies to make use of in your businesses.
 
 ### Funding
 
-Explanations, and knowledge on how to raise funding for your businesses.
+Explanations, and knowledge on how to raise funding for your businesses. 
 
 - [Funding rounds explained]
 - [Startup accelerators]
