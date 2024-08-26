@@ -1,7 +1,8 @@
 ---
 permalink: /entrepreneurship/
-title: "Entrepreneurship"
 ---
+
+# Entrepreneurship
 
 [Home](../index.md) | The [luqmn](https://github.com/theluqmn) blog
 
@@ -13,7 +14,7 @@ Knowledge and strategies related to entrepreneurship, business development, and 
 
 Strategies to make use of in your businesses.
 
-- [Blue Ocean and Red Ocean](./blue%20ocean%20and%20red%20ocean/)
+- [Blue Ocean and Red Ocean](https://theluqmn.github.io/blog/entrepreneurship/blue-ocean-and-red-ocean/)
 - [Unfair advantages]
 
 ### Funding
