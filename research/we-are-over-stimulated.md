@@ -54,11 +54,11 @@ We, as the consumers and humans, with our moral and ethical values, have the pow
 
 Here are some steps that I figured out and implemented in my life:
 
-- 1. **Limit your screentime**. Instagram has this feature to remind you to take a break, which I enabled and recommend others to do so. For mine, I made it remind me every 10 minutes. Alright I will be honest, despite having it turned on, I still mostly ignored it but it makes me aware of how long I have been on the app.
-- 2. **Disable notifications for the things you do not need to know about**. Just visited a website and it asked to allow notifications? Say no. I disabled all notifications from the social media apps I use on my phone a few months ago, and now I literally do not have the tendency to check things out until I am free, with all my work finished. To be honest, most of the notifications are really annoying at most times, so why not?
-- 3. **Be mindful**. Live in the moment, and be grateful for what you are, and what you have. Be present. Enjoy it. My teacher in grade 5 made us keep a mindfulness journal, and that was early in the Covid era so it helped a lot.
-- 4. **Think before you share**. Careful of what you say, share, and post online - it leaves an everlasting digital footprint. Think twice before sharing that fire picture of yours, as you may attract unwanted attention on yourself.
-- 5. **Keep track of what you are doing, and what's next**. Find a purpose, set goals to fulfill that purpose, and work towards achieveing said goals. Find motivation, then discipline yourself to do what you need to do. This is one of hardest ones, even I am still struggling, but let's keep our hopes high and keep trying.
+1. **Limit your screentime**. Instagram has this feature to remind you to take a break, which I enabled and recommend others to do so. For mine, I made it remind me every 10 minutes. Alright I will be honest, despite having it turned on, I still mostly ignored it but it makes me aware of how long I have been on the app.
+2. **Disable notifications for the things you do not need to know about**. Just visited a website and it asked to allow notifications? Say no. I disabled all notifications from the social media apps I use on my phone a few months ago, and now I literally do not have the tendency to check things out until I am free, with all my work finished. To be honest, most of the notifications are really annoying at most times, so why not?
+3. **Be mindful**. Live in the moment, and be grateful for what you are, and what you have. Be present. Enjoy it. My teacher in grade 5 made us keep a mindfulness journal, and that was early in the Covid era so it helped a lot.
+4. **Think before you share**. Careful of what you say, share, and post online - it leaves an everlasting digital footprint. Think twice before sharing that fire picture of yours, as you may attract unwanted attention on yourself.
+5. **Keep track of what you are doing, and what's next**. Find a purpose, set goals to fulfill that purpose, and work towards achieveing said goals. Find motivation, then discipline yourself to do what you need to do. This is one of hardest ones, even I am still struggling, but let's keep our hopes high and keep trying.
 
 ### Further reading
 
