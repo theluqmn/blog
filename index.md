@@ -24,5 +24,5 @@ Knowledge and strategies related to entrepreneurship, business development, and 
 
 ## Currently writing
 
-- **Research**: We are over stimulated
+- **Research**: Jamie Dimon
 - **Entrepreneurship**: Blue Ocean and Red Ocean
