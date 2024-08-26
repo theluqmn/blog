@@ -1,6 +1,6 @@
 # We are over stimulated
 
-[← RETURN](../../index.md) | Created 26/08/2024 by [theluqmn](https://github.com/theluqmn), in Kuala Lumpur, Malaysia.
+[Return](../topic.md) | [Home](../../index.md) | Created 26/08/2024 by [theluqmn](https://github.com/theluqmn), in Kuala Lumpur, Malaysia.
 
 ## A dive into how modern technology has disconnected us from the moment, and ourselves
 
@@ -20,6 +20,6 @@ Dopamine is a type of neurotransmitter and acts as a chemical messenger in the b
 
 ### Unlimited choices and possibilies
 
-The internet, has opened the gate to discover unlimited possibilities and make endless choices.
+The internet, has opened the gate to discover unlimited possibilities and make endless choices. It has allowed for some to reach new heights in their career, academics, and life. The same however, could not be said for most of us.
 
 ### Normalisation
