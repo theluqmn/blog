@@ -4,7 +4,7 @@
 
 Howdy! I am **Luqman** (also goes by **luq**), a 15 year old software developer, business analyst, tech enthusiast and student. I wrote this blog to share the knowledge and ideas that god has bestowed upon me, for others to learn from, discover and make use of. Yes, the **entire thing is written using markdown**. No HTML, CSS, or even JavaScript, because I am yet to learn frontend development.
 
-Have any suggestions or feedback? Reach me on [X (formerly Twitter)](https://x.com/theluqmn) or [Instagram](https://instagram.com/theluqmn). All contents, assets and sources on my blog are open-source, and can be accessed on the GitHub [repository](https://github.com/theluqmn/blog)!
+Have any suggestions, feedback or requests? Reach me on [X (formerly Twitter)](https://x.com/theluqmn) or [Instagram](https://instagram.com/theluqmn). All contents, assets and sources on my blog are open-source, and can be accessed on the GitHub [repository](https://github.com/theluqmn/blog)!
 
 ## Featured post
 
@@ -21,3 +21,8 @@ Posts about my research about a wide-range of topics, ranging from different ind
 ### [Entrepreneurship](https://theluqmn.github.io/blog/entrepreneurship/)
 
 Knowledge and strategies related to entrepreneurship, business development, and startups.
+
+## Currently writing
+
+- **Research**: We are over stimulated
+- **Entrepreneurship**: Blue Ocean and Red Ocean
