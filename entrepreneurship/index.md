@@ -1,4 +1,7 @@
-# Entrepreneurship
+---
+permalink: /entrepreneurship/
+title: "Entrepreneurship"
+---
 
 [Home](../index.md) | The [luqmn](https://github.com/theluqmn) blog
 

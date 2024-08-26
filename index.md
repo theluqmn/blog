@@ -6,16 +6,16 @@ Have any suggestions or feedback? Reach me on [X (formerly Twitter)](https://x.c
 
 ## Featured post
 
-### [We are over stimulated](./research/we-are-over-stimulated/index.md)
+### [We are over stimulated](https://theluqmn.github.io/blog/research/we-are-over-stimulated/)
 
 **Research**: A look into how modern technology has disconnected us from reality, the moment, and ourselves.
 
 ## Topics
 
-### [Research](./research/topic.md)
+### [Research](https://theluqmn.github.io/blog/research/)
 
 Posts about my research about a wide-range of topics, ranging from different industries and fields - in pursuit of finding new knowledge.
 
-### [Entrepreneurship](./entrepreneurship/topic.md)
+### [Entrepreneurship](https://theluqmn.github.io/blog/entrepreneurship/)
 
 Knowledge and strategies related to entrepreneurship, business development, and startups.

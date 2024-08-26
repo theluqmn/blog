@@ -1,6 +1,9 @@
-# We are over stimulated
+---
+permalink: /research/we-are-overstimulated/
+title: "We are over stimulated"
+---
 
-[Return](../topic.md) | [Home](../../index.md) | Created 26/08/2024 by [theluqmn](https://github.com/theluqmn), in Kuala Lumpur, Malaysia.
+[Return](./index.md) | [Home](../index.md) | Created 26/08/2024 by [theluqmn](https://github.com/theluqmn), in Kuala Lumpur, Malaysia.
 
 ## A dive into how modern technology has disconnected us from the moment, and ourselves
 
