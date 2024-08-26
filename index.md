@@ -6,7 +6,7 @@ Have any suggestions or feedback? Reach me on [X (formerly Twitter)](https://x.c
 
 ## Featured post
 
-### [We are over stimulated](./research/We%20are%20over%20stimulated/index.md)
+### [We are over stimulated](./research/we-are-over-stimulated/index.md)
 
 **Research**: A look into how modern technology has disconnected us from reality, the moment, and ourselves.
 

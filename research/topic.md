@@ -10,7 +10,7 @@ Posts about my research about a wide-range of topics, ranging from different ind
 
 Covering various health topics, mostly related to usage of technology.
 
-- [We are over stimulated](./We%20are%20over%20stimulated/index.md)
+- [We are over stimulated](./we-are-over-stimulated/index.md)
 
 ### Individuals
 
