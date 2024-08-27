@@ -15,3 +15,9 @@ Posts about my research about a wide-range of topics, ranging from different ind
 Covering various health topics, mostly related to usage of technology.
 
 - [We are over stimulated](https://theluqmn.github.io/blog/research/we-are-over-stimulated/)
+
+### Individuals
+
+Discovering talented, game-changing and influential individuals.
+
+- [Jamie Dimon](https://theluqmn.github.io/blog/research/jamie-dimon)
