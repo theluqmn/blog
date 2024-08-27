@@ -4,7 +4,7 @@ permalink: /research/jamie-dimon/
 
 # Jamie Dimon
 
-[Return](./index.md) | [Home](../index.md) | Created 27/08/2024 by [theluqmn](https://github.com/theluqmn), in City, Country
+[Return](./index.md) | [Home](../index.md) | Created 27/08/2024 by [theluqmn](https://github.com/theluqmn), in Kuala Lumpur, Malaysia
 
 ## A look into the CEO of JPMorgan Chase
 
