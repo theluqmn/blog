@@ -14,12 +14,10 @@ Knowledge and strategies related to entrepreneurship, business development, and 
 
 Strategies to make use of in your businesses.
 
-- [Blue Ocean and Red Ocean](https://theluqmn.github.io/blog/entrepreneurship/blue-ocean-and-red-ocean/)
-- [Unfair advantages]
+- [Blue Ocean and Red Ocean](https://theluqmn.github.io/blog/entrepreneurship/blue-ocean-and-red-ocean/) WIP
 
 ### Funding
 
-Explanations, and knowledge on how to raise funding for your businesses. 
+Explanations, and knowledge on how to raise funding for your businesses.
 
-- [Funding rounds explained]
-- [Startup accelerators]
+- [Funding rounds explained] WIP
