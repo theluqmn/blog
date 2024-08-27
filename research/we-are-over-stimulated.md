@@ -66,13 +66,9 @@ Thank you for reading this far, and I hope this post has helped you in some way.
 
 - [The Psychology of your scrolling addiction](https://hbr.org/2022/01/the-psychology-of-your-scrolling-addiction)
 - [Stress and anxiety in the digital age: the dark side of technology](https://www.open.edu/openlearn/health-sports-psychology/mental-health/stress-and-anxiety-the-digital-age-the-dark-side-technology)
+- [We are stressed and we are overwhelmed](https://www.unicef.org/rosa/blog/we-are-stressed-and-we-are-overwhelmed)
 - [What is a recommendation engine?](https://www.ibm.com/think/topics/recommendation-engine)
 
 ----
-
-I referred to the following articles for some inspiration and sources:
-
-- [Fortune](https://fortune.com/well/2023/05/04/technology-mental-health-effects-digital-distress/)
-- [Unicef](https://www.unicef.org/rosa/blog/we-are-stressed-and-we-are-overwhelmed)
 
 This post is writen myself, with own thoughts and opinions. AI was only used to find websites and articles to read and reference.
