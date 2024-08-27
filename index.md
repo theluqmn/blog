@@ -6,11 +6,15 @@ Howdy! I am **Luqman** (also goes by **luq**), a 15 year old software developer,
 
 Have any suggestions, feedback or requests? Reach me on [X (formerly Twitter)](https://x.com/theluqmn) or [Instagram](https://instagram.com/theluqmn). All contents, assets and sources on my blog are open-source, and can be accessed on the GitHub [repository](https://github.com/theluqmn/blog)!
 
-## Featured post
+## Featured posts
 
 ### [We are over stimulated](https://theluqmn.github.io/blog/research/we-are-over-stimulated/)
 
 **Research**: A look into how modern technology has disconnected us from reality, the moment, and ourselves.
+
+### [Jamie Dimon](https://theluqmn.github.io/blog/research/jamie-dimon)
+
+**Research**: A look into the CEO of JPMorgan Chase
 
 ## Topics
 
@@ -24,5 +28,4 @@ Knowledge and strategies related to entrepreneurship, business development, and 
 
 ## Currently writing
 
-- **Research**: Jamie Dimon
 - **Entrepreneurship**: Blue Ocean and Red Ocean
