@@ -28,4 +28,5 @@ Knowledge and strategies related to entrepreneurship, business development, and 
 
 ## Currently writing
 
+- **Entrepreneurship**: Funding rounds explained
 - **Entrepreneurship**: Blue Ocean and Red Ocean
