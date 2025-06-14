@@ -2,9 +2,27 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>index - theluqmn.com/blog</title>
+
+        <!--Open Graph-->
+        <meta property="og:title" content="index - theluqmn.com/blog" />
+        <meta property="og:description" content="a blog where i share what deserves to be in the internet" />
+
+        <!--Tailwind CSS-->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+            tailwind.config = {
+                theme: {
+                    extend: {}
+                }
+            }
+        </script>
     </head>
 
     <body>
-        
+        <div>
+            {{ content }}
+        </div>
     </body>
 </html>
