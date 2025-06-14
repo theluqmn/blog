@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fresh New Blog"
 date: 14th June 2025
 excerpt_separator: <!--more-->
