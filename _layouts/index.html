@@ -20,17 +20,19 @@
         </script>
     </head>
 
-    <body class="p-4 bg-[rgb(5,5,5)]">
-        <div class="
-        space-y-3
-        text-sm text-[rgb(220,220,220)]
-        [&_h1]:text-3xl [&_h1]:pt-16 [&_h1]:text-[rgb(0,157,255)]
-        [&_h2]:text-xl [&_h2]:pt-12 [&_h2]:font-semibold [&_h2]:text-[rgb(255,255,255)]
-        [&_h3]:text-lg [&_h3]:pt-8 [&_h3]:font-semibold [&_h3]:text-[rgb(255,255,255)]
-        [&_a]:font-semibold [&_a]:underline
-        [&_img]:w-full [&_img]:rounded-md
-        ">
-            {{ content }}
-        </div>
+    <body class="md:p-4 bg-[rgb(5,5,5)]">
+        <main class="p-4 md:p-8 w-full h-full md:w-7/12 mx-auto">
+            <div class="
+            space-y-3
+            text-sm text-[rgb(220,220,220)]
+            [&_h1]:text-3xl [&_h1]:pt-16 [&_h1]:text-[rgb(0,157,255)]
+            [&_h2]:text-xl [&_h2]:pt-12 [&_h2]:font-semibold [&_h2]:text-[rgb(255,255,255)]
+            [&_h3]:text-lg [&_h3]:pt-8 [&_h3]:font-semibold [&_h3]:text-[rgb(255,255,255)]
+            [&_a]:font-semibold [&_a]:underline
+            [&_img]:w-full [&_img]:rounded-md
+            ">
+                {{ content }}
+            </div>
+        </main>
     </body>
 </html>
