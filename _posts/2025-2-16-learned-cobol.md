@@ -21,4 +21,4 @@ I got used to writing COBOL rapidly and for some reason, I find it enjoyable to 
 
 Below is a screenshot of the program:
 
-![Massive](../_assets/2025-2-16-cobol-1.png)
+![Massive](/assets/2025-2-16-cobol-1.png)
