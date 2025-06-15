@@ -7,7 +7,7 @@
 
         <!--Open Graph-->
         <meta property="og:title" content="{{ page.title }} - theluqmn.com/blog" />
-        <meta property="og:description" content="{{ post.excerpt }}"/>
+        <meta property="og:description" content= {{ post.excerpt }}/>
 
         <!--Tailwind CSS-->
         <script src="https://cdn.tailwindcss.com"></script>
@@ -29,7 +29,7 @@
                 </h1>
 
                 <p class="text-sm text-[rgb(220,220,220)]">
-                    {{ page.date}}
+                    {{ page.date | date: "%B %d, %Y" }}
                 </p>
             </div>
 
