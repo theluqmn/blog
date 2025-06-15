@@ -9,9 +9,9 @@ excerpt_separator: <!--more-->
 
 In this post, I will be going over the history of several historical Intel CPUs that introduced several technologies that has benefited modern day compute, and the world. I referred to the [Intel® 64 and IA-32 Architectures Software Developer’s Manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html), Volume 1: Basic Architecture for the list of CPUs (I digest this manual in my free time).
 
-This article is the first of a series of posts where I cover Intel (products, technologies, etc.) in detail, as an enthusiast. This is a hobby of mine, and I hope you enjoy reading it as much as I enjoy writing it.
-
 <!--more-->
+
+This article is the first of a series of posts where I cover Intel (products, technologies, etc.) in detail, as an enthusiast. This is a hobby of mine, and I hope you enjoy reading it as much as I enjoy writing it.
 
 As of the writing of this post, Intel is not as great as it once was. While it is true that Intel is still considered dominant, especially in the consumer market (the enthusiasts excluded, they jumped to AMD), but it does not mean that we get to neglect its contributions and the impact that it has had on the world. Intel, is considered as the company that placed "Silicon" in "Silicon Valley"!
 
