@@ -18,6 +18,6 @@ i chose to use jekyll because it gets the job done quite well and i don't have t
 
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
-{{ post.date | date: "%d %B %Y" }} - {{ post.excerpt | markdownify }}
+{{ post.date | date: "%d %B %Y" }} - {{ post.excerpt | markdownify | strip_html }}
 
 {% endfor %}
