@@ -16,6 +16,7 @@ i chose to use jekyll because it gets the job done quite well and i don't have t
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%d %B %Y" }}
+[{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%d %B %Y" }}
+{{ post.excerpt}}
 
 {% endfor %}

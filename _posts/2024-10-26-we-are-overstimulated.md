@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are overstimulated
+title: "We are overstimulated"
 date: 26th October 2024
 excerpt_separator: <!--more-->
 ---
