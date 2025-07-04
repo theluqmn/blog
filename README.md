@@ -1,4 +1,4 @@
-# theluqmn.com/blog
+# blog.theluqmn.com
 
 the GitHub repository for [blog.theluqmn.com](https://blog.theluqmn.com).
 
