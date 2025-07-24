@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fresh New Blog"
+title: fresh new blog
 date: 15th June 2025
 excerpt_separator: <!--more-->
 ---

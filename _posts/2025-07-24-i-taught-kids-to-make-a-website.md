@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I taught kids how to make a website
+title: i taught kids how to make a website
 date: 24th July 2025
 excerpt_separator: <!--more-->
 ---
@@ -21,7 +21,7 @@ the teacher in charge of the computer club gave everyone a brief introduction to
 - — headings and paragraphs: using `<h1>` to `<h6>` for headings and `<p>` for paragraphs
 - — images: using the `<img>` tag to add images
 
-once they understood the basics, i encouraged them to experiment with what they learned. 
+once they understood the basics, i encouraged them to experiment with what they learned.
 
 ## the reaction
 
