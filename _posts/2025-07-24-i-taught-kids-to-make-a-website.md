@@ -5,7 +5,7 @@ date: 24th July 2025
 excerpt_separator: <!--more-->
 ---
 
-on 25th July 2025 (yesterday), i had the opportunity to teach my juniors at school how to make a simple website using HTML. it was an activity organised by the school's computer club, which i am a part of. the objective was to introduce them to web development and spark their interest in coding.
+on 23rd July 2025 (yesterday), i had the opportunity to teach my juniors at school how to make a simple website using HTML. it was an activity organised by the school's computer club, which i am a part of. the objective was to introduce them to web development and spark their interest in coding.
 
 <!--more-->
 
