@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ page.title }} - blog.theluqmn.com</title>
 
-        <!--Open Graph-->
+        <!--open graph-->
         <meta property="og:title" content="{{ page.title }} - blog.theluqmn.com" />
         <meta property="og:description" content= "{{ post.excerpt }}"/>
 
-        <!--Tailwind CSS-->
+        <!--tailwind css-->
         <script src="https://cdn.tailwindcss.com"></script>
         <script>
             tailwind.config = {
@@ -22,7 +22,14 @@
 
     <body class="bg-[rgb(5,5,5)]">
         <main class="p-4 md:p-8 w-full h-full flex flex-col gap-16 md:w-7/12 mx-auto">
-            <!--Header-->
+            <!--navbar-->
+            <div class="p-4 w-full flex gap-12 bg-[rgb(255,255,255)]">
+                <p class="text-[rgb(0,0,0)] text-bold">blog.theluqmn.com</h1>
+                <a class="text-[rgb(0,157,255)]" href="https://blog.theluqmn.com/">home</a>
+                <a class="text-[rgb(0,157,255)]" href="https://theluqmn.com">portfolio</a>
+            </div>
+
+            <!--header-->
             <div class="flex flex-col gap-4 items-start">
                 <h1 class="text-3xl text-[rgb(0,157,255)]">
                     {{ page.title }}
@@ -33,7 +40,7 @@
                 </p>
             </div>
 
-            <!--Content-->
+            <!--content-->
             <div class="
             space-y-3
             text-sm text-[rgb(220,220,220)]
