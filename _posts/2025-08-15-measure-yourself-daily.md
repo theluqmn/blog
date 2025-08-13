@@ -1,7 +1,7 @@
 ---
 layout: post
 title: start measuring your daily life
-date: 14th August 2025
+date: 15th August 2025
 excerpt_separator: <!--more-->
 ---
 
