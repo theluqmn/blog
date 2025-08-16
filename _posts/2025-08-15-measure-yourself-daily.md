@@ -54,7 +54,7 @@ the things i track:
 
 this allows me to have a good glimpse of how well im performing everyday.
 
-## what my a week of my notebook looks like
+## customise it according to your needs
 
 the layout and design of each page is up to your needs and creativity! every week does not have to look the same, and you can always change or modify the design according to your current needs and aesthetics. dont want something? you can get rid of it. you think something is worth tracking and writing about? feel free to add it to the layout!
 
