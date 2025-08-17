@@ -1,5 +1,7 @@
 ---
 layout: index
+section: "luqman's journal"
+description: "my personal journal, where i write about things that has happened in my life."
 permalink: "/journal"
 ---
 

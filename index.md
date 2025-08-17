@@ -1,5 +1,7 @@
 ---
 layout: index
+section: index
+description: my personal blog where i share what i think deserves to be on the internet
 ---
 
 # hello there
