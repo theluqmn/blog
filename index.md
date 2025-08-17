@@ -9,18 +9,18 @@ a warm welcome to my personal blog where i share what i think deserves to be on 
 
 if you are interested in leadership, entrepreneurship, tech, and cool stuff, check out my newsletter [the revelations](https://revelations.theluqmn.com) (however please take note that **i have not worked on that for ages**!).
 
-<!-- ## [all posts](https://blog.theluqmn.com/posts)
+[about this blog](https://blog.theluqmn.com/about) | [github repository](https://github.com/theluqmn/blog)
 
-not sure what to read? check out all posts! -->
+## categories within this blog
 
-## [about this blog](https://blog.theluqmn.com/about)
-
-all about this blog!
-
-## [coding blog](https://blog.theluqmn.com/coding)
+### [coding blog](https://blog.theluqmn.com/coding)
 
 my humble coding blog - where i share things related to software development, and coding/programming!
 
-## [luqman's journal](https://blog.theluqmn.com/journal)
+### [luqman's journal](https://blog.theluqmn.com/journal)
 
-my personal journal, where i write about things that has happened in my life.
+personal journal, where i write about things that has happened in my life.
+
+### [reading](https://blog.theluqmn.com/reading)
+
+insights and thoughts on the books i have read.
