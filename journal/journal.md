@@ -1,11 +1,10 @@
 ---
 layout: index
 section: "luqman's journal"
+title: luqman's journal
 description: "my personal journal, where i write about things that has happened in my life."
 permalink: "/journal"
 ---
-
-# journal
 
 welcome to my personal journal, where i write about things that has happened in my life - projects, events, competitions, updates, and more!
 
