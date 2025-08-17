@@ -5,11 +5,13 @@ permalink: "/journal"
 
 # journal
 
-welcome to my personal journal, where i write about things that is happening to my life at the moment - my life projects, updates, etc.
+welcome to my personal journal, where i write about things that has happened in my life - projects, events, competitions, updates, and more!
 
 ## journal entries
 
-{% for post in category.posts %}
+sorted according to date.
+
+{% for post in site.categories.journal %}
 
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
