@@ -25,13 +25,3 @@ my humble coding blog - where i share things related to software development, an
 ## [luqman's journal](https://blog.theluqmn/journal)
 
 my personal journal, where i write about things that has happened in my life.
-
-## all posts
-
-{% for post in site.posts %}
-
-### [{{ post.title }}]({{ post.url | relative_url }})
-
-**{{ post.date | date: "%d %B %Y" }}** - {{ post.excerpt | markdownify | strip_html }}
-
-{% endfor %}

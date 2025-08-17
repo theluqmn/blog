@@ -7,18 +7,12 @@ permalink: "/posts"
 
 # all posts
 
-as requested, below is all the posts in this blog, in its corresponding categories.
+as requested, below is all the posts in this blog.
 
-{% for tag in site.tags %}
+{% for post in site.posts %}
 
-## {{ tag[0] }}
-
-{% for post in tag[1] %}
-
-### [{{ post.title }}]({{ post.url | relative_url }})
+## [{{ post.title }}]({{ post.url | relative_url }})
 
 **{{ post.date | date: "%d %B %Y" }}** - {{ post.excerpt | markdownify | strip_html }}
-
-{% endfor %}
 
 {% endfor %}
