@@ -1,7 +1,7 @@
 ---
 layout: index
 section: "about"
-title: about blog.theluqmn.com
+title: about the blog
 description: "my personal blog where i share what i think deserves to be on the internet"
 permalink: "/about"
 ---
