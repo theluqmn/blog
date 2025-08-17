@@ -6,13 +6,25 @@ description: my personal blog where i share what i think deserves to be on the i
 
 # hello there
 
-**blog.theluqmn.com** is my personal blog where i share what i think deserves to be on the internet. typically consists of life updates, thoughts, some technical stuff and random things. if you are interested in leadership, entrepreneurship, tech, and cool stuff, check out my newsletter [the revelations](https://revelations.theluqmn.com).
+a warm welcome to my personal blog where i share what i think deserves to be on the internet. consists of posts related to coding, research, semiconductor, my classes, some wisdom i want to share, and my personal journal.
 
-## how this works
+if you are interested in leadership, entrepreneurship, tech, and cool stuff, check out my newsletter [the revelations](https://revelations.theluqmn.com) (however please take note that **i have not worked on that for ages**!).
 
-this is a relatively simple and straightforward static site, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). i write my posts in markdown then GitHub builds the site for me when it detects a change in the repository.
+## [all posts](https://blog.theluqmn.com/posts)
 
-i chose to use jekyll because it gets the job done quite well and i don't have to worry about hosting the site myself. additionally, its simple and allows me to focus on writing. i highly recommend using jekyll if you want to build a simple blog. oh btw, you can customise the theme/layout to your liking using HTML. the layout im using is custom-made by me.
+not sure what to read? check out all posts!
+
+## [about this blog](https://blog.theluqmn.com/about)
+
+all about this blog!
+
+## [coding blog](https://blog.theluqmn.com/coding)
+
+my humble coding blog - where i share things related to software development, and coding/programming!
+
+## [luqman's journal](https://blog.theluqmn/journal)
+
+my personal journal, where i write about things that has happened in my life.
 
 ## all posts
 
