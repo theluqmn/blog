@@ -1,11 +1,10 @@
 ---
 layout: index
 section: "about"
+title: about blog.theluqmn.com
 description: "my personal blog where i share what i think deserves to be on the internet"
 permalink: "/about"
 ---
-
-# blog.theluqmn.com
 
 i have always liked talking (well, if you check my [github](https://github.com/theluqmn), you will see that i claim myself as the **chief yapping officer with a PhD in talking**), hence having my own blog makes sense.
 

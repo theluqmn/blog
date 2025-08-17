@@ -1,10 +1,9 @@
 ---
 layout: index
 section: index
-description: my personal blog where i share what i think deserves to be on the internet
+title: hello there
+description: "my personal blog where i share what i think deserves to be on the internet"
 ---
-
-# hello there
 
 a warm welcome to my personal blog where i share what i think deserves to be on the internet. consists of posts related to coding, research, semiconductor, my classes, some wisdom i want to share, and my personal journal.
 
