@@ -2,9 +2,11 @@
 layout: index_all
 ---
 
+All my posts!
+
 {% for post in site.posts %}
 
-## {{ post.date }}
+## {{ post.date | date: "%d %B %Y" }}
 
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
