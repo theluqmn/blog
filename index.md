@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: index_all
 ---
 
 {% for post in site.posts %}
