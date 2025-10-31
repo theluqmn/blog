@@ -1,9 +1,9 @@
 ---
-layout: index_all
-permalink: /
+layout: index_updates
+permalink: /updates
 ---
 
-{% for post in site.posts %}
+{% for post in site.categories.updates %}
 
 ## {{ post.date | date: "%d %B %Y" }}
 

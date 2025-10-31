@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Luqman - theluqmn.com</title>
+        <link rel="icon" href="{{ site.baseurl }}/assets/theluqmn.png" type="image/x-icon" />
+
+        <!-- open graph -->
+        <meta property="og:title" content="Coding - Luqman's blog" />
+        <meta property="og:description" content="Posts related to coding." />
+
+        <!-- IBM Plex Mono font -->
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet" />
+
+        <!-- tailwind css -->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+            tailwind.config = {
+                theme: {
+                    extend: { fontFamily: { mono: ['"IBM Plex Mono"', 'monospace'] }}
+                }
+            }
+        </script>
+
+        <!-- highlight style -->
+        <style>
+            ::selection { background-color: rgb(0,157,255); color: white; }
+            ::-moz-selection { background-color: rgb(0,157,255); color: rgb(200,200,200); }
+        </style>
+    </head>
+
+    <body class="font-mono bg-black w-full h-full">
+        {% include header.html %}
+
+        <main class="w-full h-full md:w-7/12 mx-auto">
+            {% include about.html %}
+
+            <!-- contents -->
+            <div class="p-8 bg-black flex flex-col gap-8
+            outline outline-1 outline-[rgb(50,50,50)] border border-1 border-[rgb(50,50,50)]">
+                <p class="font-bold text-base text-[rgb(50,50,50)]">
+                    <a href="https://blog.theluqmn.com/" target="_self"class="text-[rgb(200,200,200)] hover:text-white duration-300">All</a> | 
+                    <a href="https://blog.theluqmn.com/updates" target="_self"class="text-[rgb(200,200,200)] hover:text-white duration-300">Updates</a> | 
+                    <a href="https://blog.theluqmn.com/coding" target="_self"class="text-white hover:text-white duration-300">Coding</a> | 
+                    <a href="https://blog.theluqmn.com/books" target="_self"class="text-[rgb(200,200,200)] hover:text-white duration-300">Books</a> | 
+                    <a href="https://blog.theluqmn.com/semiconductors" target="_self"class="text-[rgb(200,200,200)] hover:text-white duration-300">Semiconductors</a>
+                </p>
+
+                <div class="
+                text-sm text-[rgb(200,200,200)]
+                [&_h2]:text-base [&_h2]:pt-8 [&_h2]:font-bold [&_h2]:text-[rgb(200,200,200)]
+                [&_h3]:text-lg [&_h3]:font-bold [&_h3]:text-white
+                [&_a]:underline
+                ">
+                    {{ content }}
+                </div>
+            </div>
+        </main>
+        
+        {% include footer.html %}
+    </body>
+</html>
