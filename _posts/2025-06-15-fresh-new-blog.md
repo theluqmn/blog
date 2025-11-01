@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fresh new blog
+title: Fresh New Blog
 category: coding
 date: 15th June 2025
 excerpt_separator: <!--more-->
