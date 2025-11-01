@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Me and building blogs go way back. This time, I conducted an overhaul (again) but I swear its for the better!<!--more-->
 
-If you need better context, I have another post about the previous blog, which you can read [here](https://blog.theluqmn.com/coding/2025/06/15/fresh-new-blog).
+If you need better context, I have another post about the [the previous time i worked on the blog](https://blog.theluqmn.com/coding/2025/06/15/fresh-new-blog).
 
 ## Addressing the Old Blog
 
