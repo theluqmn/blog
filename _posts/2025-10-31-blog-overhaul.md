@@ -22,7 +22,7 @@ I believe I have reasoned with you enough on why the blog could use some work, h
 
 ### Exceptional Aesthetics
 
-The largest change is obviously aesthetics. The blog is basically a copy-paste of my [portfolio website](https://theluqmn.com) - of course, with slight adjustments made to cater it towards looking more like a blog. You can say it is developed in parellel with the portfolio, hence both websites are designed to consistently look and feel the same with each other. A good example is the "Portfolio | Blog" links found beneath the header, which acts like a text-based toggle switch between the two websites.
+The largest change is obviously aesthetics. The blog is basically a copy-paste of my [portfolio website](https://theluqmn.com) - of course, with slight adjustments made to cater it towards looking more like a blog. You can say it is developed in parellel with the portfolio, hence both websites are designed to consistently look and feel the same with each other. A good example is the "Portfolio Blog" links found beneath the header, which acts like a text-based toggle switch between the two websites.
 
 ### Rethinking How Categorising Works
 
