@@ -9,6 +9,6 @@ permalink: /
 
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
-{{ post.excerpt | markdownify | strip_html }}
+**{{ post.categories[0] }}** - {{ post.excerpt | markdownify | strip_html }}
 
 {% endfor %}
