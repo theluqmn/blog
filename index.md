@@ -9,6 +9,6 @@ permalink: /
 
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
-[ **{{ post.categories[0] | capitalize }}** ] {{ post.excerpt | markdownify | strip_html }}
+**[{{ post.categories[0] | capitalize }}]** {{ post.excerpt | markdownify | strip_html }}
 
 {% endfor %}
