@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 
 title: How I do things
-category: ideas
+category: journal
 date: 13th November 2025
 ---
 
